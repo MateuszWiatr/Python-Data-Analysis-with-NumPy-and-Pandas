@@ -13,7 +13,9 @@ Proficiency in NumPy and Pandas fundamentals.
 Act as a newly hired Data Analyst for Maven MegaMart, a multinational corporation that operates a chain of retail and grocery stores.
 
 **Mid-Course Project** - Maven Acquisition Target Data
+
 **Final Project** - Maven Acquisition Target Data
+
 They recently received a sample of data from a new retailer they're looking to acquire, and they need you to identify and deliver key insights about their sales history.
 
 The assignment is to analyze over 2 million transactions by product, household, and store to get a better understanding of the retailer's main strengths. From there, we need to review the company's discount scheme to assess whether they can expect to attract customers without losing margin.
